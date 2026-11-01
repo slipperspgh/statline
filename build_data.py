@@ -1,13 +1,13 @@
 """Builds data/nfl.json for the StatLine page from free nflverse data.
 
 Run: python build_data.py
-Needs: pip install nfl_data_py pandas pyarrow
+Needs: pip install nflreadpy pandas pyarrow
 """
 import json
 import os
 from datetime import date, datetime, timezone
 
-import nfl_data_py as nfl
+import nflreadpy as nfl
 import pandas as pd
 
 today = date.today()
@@ -25,8 +25,8 @@ def pick(df, *names):
 
 
 # ---------- Load data ----------
-sched = nfl.import_schedules(SERIES_SEASONS)
-weekly = nfl.import_weekly_data(HISTORY)
+sched = nfl.load_schedules(SERIES_SEASONS).to_pandas()
+weekly = nfl.load_player_stats(HISTORY).to_pandas()
 
 TEAM = pick(weekly, "recent_team", "team")
 NAME = pick(weekly, "player_display_name", "player_name")
@@ -76,12 +76,15 @@ if not upcoming.empty:
 
 
 # ---------- Injuries ----------
+try:
+    INJ = nfl.load_injuries([SEASON]).to_pandas()
+except Exception as e:
+    print("Could not load injuries:", e)
+    INJ = pd.DataFrame(columns=["team", "week", "report_status", "full_name", "position"])
+
+
 def injuries_for(team):
-    try:
-        inj = nfl.import_injuries([SEASON])
-    except Exception:
-        return []
-    inj = inj[(inj["team"] == team) & (inj["week"] == next_week)]
+    inj = INJ[(INJ["team"] == team) & (INJ["week"] == next_week)]
     inj = inj[inj["report_status"].isin(["Out", "Doubtful", "Questionable"])]
     rows = []
     for _, r in inj.iterrows():
