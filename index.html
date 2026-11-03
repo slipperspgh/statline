@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>StatLine</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef1f5;--card:#fff;--ink:#14213d;--mut:#5b6678;--line:#d5dbe5;--acc:#2f5bff;--hit:#1a9d63;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e1524;--card:#16203a;--ink:#e8edf7;--mut:#9aa6bd;--line:#26324f;--acc:#7a98ff;--hit:#3ecf8e;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0e1524;--card:#16203a;--ink:#e8edf7;--mut:#9aa6bd;--line:#26324f;--acc:#7a98ff;--hit:#3ecf8e;color-scheme:dark}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+main{max-width:560px;margin:0 auto;padding:20px 16px 40px}
+h1,h2,h3{font-family:"Barlow Condensed","Arial Narrow",sans-serif;font-weight:700;margin:0}
+h1{font-size:48px;line-height:1}
+h2{font-size:40px;line-height:1.05}
+h3{font-size:24px;margin-top:18px}
+.st{font-size:30px;margin:32px 0 2px}
+.lede,.sub,.empty{color:var(--mut)}
+.lede{margin:6px 0 18px}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.row{display:flex;flex-direction:column;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);padding:14px 4px}
+.row b{font-weight:500}
+.row span{color:var(--mut)}
+.back{background:none;border:0;color:var(--acc);padding:4px 0;margin-bottom:12px}
+.rk{display:grid;grid-template-columns:1fr 80px 68px;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}
+.rk span{display:block;color:var(--mut);font-size:14px}
+.rk b{font-weight:500}
+.rk em,.kv em{font-style:normal;text-align:right}
+.rk em{font-weight:700;white-space:nowrap}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--mut)}
+.soft .bar i{background:var(--hit)}.soft em{color:var(--hit)}
+.kv{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid var(--line)}
+.kv em{color:var(--mut)}
+.note{margin-top:32px;font-size:13px;color:var(--mut)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+<div id="home">
+<h1>StatLine</h1>
+<p class="lede" id="lede">Loading this week’s NFL matchups…</p>
+<div id="list"></div>
+</div>
+<div id="detail" hidden></div>
+<p class="note">Stats from the free nflverse project. Stats only, not betting advice. Sports betting is legal only in some states, and age rules vary. Problem gambling help: 1-800-GAMBLER.</p>
+</main>
+<script>
+const N={ARI:"Arizona Cardinals",ATL:"Atlanta Falcons",BAL:"Baltimore Ravens",BUF:"Buffalo Bills",CAR:"Carolina Panthers",CHI:"Chicago Bears",CIN:"Cincinnati Bengals",CLE:"Cleveland Browns",DAL:"Dallas Cowboys",DEN:"Denver Broncos",DET:"Detroit Lions",GB:"Green Bay Packers",HOU:"Houston Texans",IND:"Indianapolis Colts",JAX:"Jacksonville Jaguars",KC:"Kansas City Chiefs",LA:"Los Angeles Rams",LAC:"Los Angeles Chargers",LV:"Las Vegas Raiders",MIA:"Miami Dolphins",MIN:"Minnesota Vikings",NE:"New England Patriots",NO:"New Orleans Saints",NYG:"New York Giants",NYJ:"New York Jets",PHI:"Philadelphia Eagles",PIT:"Pittsburgh Steelers",SEA:"Seattle Seahawks",SF:"San Francisco 49ers",TB:"Tampa Bay Buccaneers",TEN:"Tennessee Titans",WAS:"Washington Commanders"};
+const nm=t=>N[t]||t;
+const $=id=>document.getElementById(id);
+const ord=n=>{const s=["th","st","nd","rd"],v=n%100;return n+(s[(v-20)%10]||s[v]||s[0])};
+let G=[];
+fetch("data/nfl.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
+  G=d.games||[];
+  const when=d.updated?new Date(d.updated).toLocaleString([], {dateStyle:"medium",timeStyle:"short"}):"";
+  $("lede").textContent=G.length?`NFL week ${d.week} matchups. Updated ${when}.`:"No upcoming games found in the data yet.";
+  $("list").innerHTML=G.map((g,i)=>`<button class="row" data-g="${i}"><b>${nm(g.away)} at ${nm(g.home)}</b><span>${g.when||""}</span></button>`).join("");
+}).catch(()=>{$("lede").textContent="Couldn’t load the data file. Check that data/nfl.json exists in the repository."});
+function show(i){
+  const g=G[i],t={away:nm(g.away),home:nm(g.home)},side=["home","away"];
+  const df=k=>`<h3>${t[k]} defense</h3>`+((g.defense[k]||[]).map(([l,v,r])=>`<div class="rk${r<=8?" soft":""}"><div><span>${l}</span><b>${v}</b></div><div class="bar"><i style="width:${(33-r)/32*100}%"></i></div><em>${ord(r)} most</em></div>`).join("")||`<p class="empty">No ranking data yet.</p>`);
+  const inj=k=>`<h3>${t[k]}</h3>`+((g.injuries[k]||[]).map(([n,p,s,d])=>`<div class="kv"><span><b>${n}</b>, ${p}</span><em>${s}, ${d}</em></div>`).join("")||`<p class="empty">No Out, Doubtful, or Questionable players listed.</p>`);
+  const hs=k=>`<h3>${t[k]}</h3>`+((g.history[k]||[]).map(([n,c,s])=>`<div class="kv"><span><b>${n}</b>, ${c}</span><em>${s}</em></div>`).join("")||`<p class="empty">No history against this opponent.</p>`);
+  const sr=g.series||{meetings:[]};
+  $("detail").innerHTML=`<button class="back" id="back">Back to matchups</button>
+  <h2>${t.away} at ${t.home}</h2><p class="sub">${g.when||""}</p>
+  <h2 class="st">What each defense allows</h2><p class="sub">Per game this season, ranked among 32 teams. Green means one of the 8 that allow the most.</p>${side.map(df).join("")}
+  <h2 class="st">Key injuries</h2>${["away","home"].map(inj).join("")}
+  <h2 class="st">Past meetings</h2><p class="sub">${sr.summary||""}</p>${(sr.meetings||[]).map(([w,r])=>`<div class="kv"><span><b>${w}</b></span><em>${r}</em></div>`).join("")}
+  <h2 class="st">Player history in this matchup</h2>${["away","home"].map(hs).join("")}`;
+  $("home").hidden=true;$("detail").hidden=false;
+  $("back").onclick=()=>{$("detail").hidden=true;$("home").hidden=false};
+  window.scrollTo(0,0);
+}
+$("list").onclick=e=>{const b=e.target.closest("[data-g]");if(b)show(+b.dataset.g)};
+</script>
+</body>
+</html>
