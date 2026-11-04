@@ -46,13 +46,16 @@ games_played = cur.groupby(OPP)["week"].nunique()   # games each defense has fac
 
 # ---------- Defense rankings (1 = allows the most) ----------
 CATEGORIES = [
+    ("Passing yards allowed to QBs", "QB", "passing_yards"),
+    ("Passing touchdowns allowed to QBs", "QB", "passing_tds"),
     ("Rushing yards allowed to RBs", "RB", "rushing_yards"),
     ("Touchdowns allowed to RBs", "RB", "rb_tds"),
     ("Targets allowed to WRs", "WR", "targets"),
     ("Catches allowed to WRs", "WR", "receptions"),
     ("Receiving yards allowed to WRs", "WR", "receiving_yards"),
+    ("Touchdowns allowed to WRs", "WR", "receiving_tds"),
     ("Receiving yards allowed to TEs", "TE", "receiving_yards"),
-    ("Passing yards allowed to QBs", "QB", "passing_yards"),
+    ("Touchdowns allowed to TEs", "TE", "receiving_tds"),
 ]
 
 defense = {}   # team -> list of [label, "x.x/game", rank]
