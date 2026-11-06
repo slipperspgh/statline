@@ -1,180 +1,8 @@
 {
- "updated": "2026-11-05T20:40+00:00",
+ "updated": "2026-11-06T12:50+00:00",
  "season": 2026,
  "week": 9,
  "games": [
-  {
-   "away": "JAX",
-   "home": "BAL",
-   "when": "Thursday 20:15",
-   "defense": {
-    "away": [
-     [
-      "Passing yards allowed to QBs",
-      "262.0/game",
-      5
-     ],
-     [
-      "Passing touchdowns allowed to QBs",
-      "1.1/game",
-      26
-     ],
-     [
-      "Rushing yards allowed to RBs",
-      "57.7/game",
-      32
-     ],
-     [
-      "Touchdowns allowed to RBs",
-      "0.4/game",
-      30
-     ],
-     [
-      "Targets allowed to WRs",
-      "20.1/game",
-      6
-     ],
-     [
-      "Catches allowed to WRs",
-      "13.6/game",
-      4
-     ],
-     [
-      "Receiving yards allowed to WRs",
-      "195.7/game",
-      1
-     ],
-     [
-      "Touchdowns allowed to WRs",
-      "0.6/game",
-      26
-     ],
-     [
-      "Receiving yards allowed to TEs",
-      "32.3/game",
-      32
-     ],
-     [
-      "Touchdowns allowed to TEs",
-      "0.6/game",
-      12
-     ]
-    ],
-    "home": [
-     [
-      "Passing yards allowed to QBs",
-      "241.9/game",
-      14
-     ],
-     [
-      "Passing touchdowns allowed to QBs",
-      "1.4/game",
-      17
-     ],
-     [
-      "Rushing yards allowed to RBs",
-      "81.8/game",
-      21
-     ],
-     [
-      "Touchdowns allowed to RBs",
-      "0.9/game",
-      13
-     ],
-     [
-      "Targets allowed to WRs",
-      "19.2/game",
-      10
-     ],
-     [
-      "Catches allowed to WRs",
-      "12.8/game",
-      6
-     ],
-     [
-      "Receiving yards allowed to WRs",
-      "177.6/game",
-      5
-     ],
-     [
-      "Touchdowns allowed to WRs",
-      "0.6/game",
-      23
-     ],
-     [
-      "Receiving yards allowed to TEs",
-      "46.5/game",
-      22
-     ],
-     [
-      "Touchdowns allowed to TEs",
-      "0.8/game",
-      5
-     ]
-    ]
-   },
-   "injuries": {
-    "away": [
-     [
-      "Travon Walker",
-      "DE",
-      "Questionable",
-      "rib"
-     ],
-     [
-      "Bhayshul Tuten",
-      "RB",
-      "Questionable",
-      "ankle"
-     ]
-    ],
-    "home": [
-     [
-      "Lamar Jackson",
-      "QB",
-      "Out",
-      "thumb"
-     ],
-     [
-      "Tyler Huntley",
-      "QB",
-      "Out",
-      "toe"
-     ],
-     [
-      "Jaylinn Hawkins",
-      "S",
-      "Out",
-      "knee"
-     ],
-     [
-      "Nate Wiggins",
-      "CB",
-      "Questionable",
-      "stinger"
-     ],
-     [
-      "Adam Randall",
-      "RB",
-      "Questionable",
-      "neck"
-     ]
-    ]
-   },
-   "series": {
-    "summary": "JAX won 0 of the last 1",
-    "meetings": [
-     [
-      "2023, Week 15",
-      "JAX 7, BAL 23"
-     ]
-    ]
-   },
-   "history": {
-    "away": [],
-    "home": []
-   }
-  },
   {
    "away": "CIN",
    "home": "ATL",
@@ -184,7 +12,7 @@
      [
       "Passing yards allowed to QBs",
       "261.0/game",
-      6
+      5
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -236,7 +64,7 @@
      [
       "Passing yards allowed to QBs",
       "237.5/game",
-      16
+      15
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -256,7 +84,7 @@
      [
       "Targets allowed to WRs",
       "18.9/game",
-      13
+      11
      ],
      [
       "Catches allowed to WRs",
@@ -271,7 +99,7 @@
      [
       "Touchdowns allowed to WRs",
       "0.5/game",
-      29
+      28
      ],
      [
       "Receiving yards allowed to TEs",
@@ -281,7 +109,7 @@
      [
       "Touchdowns allowed to TEs",
       "0.5/game",
-      14
+      13
      ]
     ]
    },
@@ -307,7 +135,7 @@
      [
       "Passing yards allowed to QBs",
       "246.6/game",
-      10
+      9
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -322,12 +150,12 @@
      [
       "Touchdowns allowed to RBs",
       "0.9/game",
-      13
+      14
      ],
      [
       "Targets allowed to WRs",
       "19.1/game",
-      12
+      10
      ],
      [
       "Catches allowed to WRs",
@@ -342,7 +170,7 @@
      [
       "Touchdowns allowed to WRs",
       "0.5/game",
-      29
+      28
      ],
      [
       "Receiving yards allowed to TEs",
@@ -379,12 +207,12 @@
      [
       "Targets allowed to WRs",
       "19.6/game",
-      9
+      8
      ],
      [
       "Catches allowed to WRs",
       "12.1/game",
-      9
+      8
      ],
      [
       "Receiving yards allowed to WRs",
@@ -399,12 +227,12 @@
      [
       "Receiving yards allowed to TEs",
       "47.3/game",
-      21
+      22
      ],
      [
       "Touchdowns allowed to TEs",
       "0.7/game",
-      7
+      6
      ]
     ]
    },
@@ -462,7 +290,7 @@
      [
       "Passing yards allowed to QBs",
       "244.1/game",
-      11
+      10
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -502,12 +330,12 @@
      [
       "Receiving yards allowed to TEs",
       "51.0/game",
-      20
+      21
      ],
      [
       "Touchdowns allowed to TEs",
       "0.5/game",
-      14
+      13
      ]
     ],
     "home": [
@@ -554,7 +382,7 @@
      [
       "Receiving yards allowed to TEs",
       "51.4/game",
-      19
+      20
      ],
      [
       "Touchdowns allowed to TEs",
@@ -612,7 +440,7 @@
      [
       "Touchdowns allowed to RBs",
       "0.9/game",
-      13
+      14
      ],
      [
       "Targets allowed to WRs",
@@ -654,7 +482,7 @@
      [
       "Passing touchdowns allowed to QBs",
       "1.0/game",
-      30
+      29
      ],
      [
       "Rushing yards allowed to RBs",
@@ -694,7 +522,7 @@
      [
       "Touchdowns allowed to TEs",
       "0.7/game",
-      7
+      6
      ]
     ]
    },
@@ -767,7 +595,7 @@
      [
       "Receiving yards allowed to WRs",
       "175.9/game",
-      6
+      4
      ],
      [
       "Touchdowns allowed to WRs",
@@ -905,14 +733,14 @@
      [
       "Touchdowns allowed to TEs",
       "0.5/game",
-      14
+      13
      ]
     ],
     "home": [
      [
       "Passing yards allowed to QBs",
       "249.7/game",
-      9
+      8
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1040,7 +868,7 @@
      [
       "Passing yards allowed to QBs",
       "244.0/game",
-      12
+      11
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1065,12 +893,12 @@
      [
       "Catches allowed to WRs",
       "12.8/game",
-      6
+      5
      ],
      [
       "Receiving yards allowed to WRs",
       "182.6/game",
-      4
+      3
      ],
      [
       "Touchdowns allowed to WRs",
@@ -1203,7 +1031,7 @@
      [
       "Passing yards allowed to QBs",
       "258.0/game",
-      7
+      6
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1223,12 +1051,12 @@
      [
       "Targets allowed to WRs",
       "19.1/game",
-      11
+      9
      ],
      [
       "Catches allowed to WRs",
       "12.6/game",
-      8
+      6
      ],
      [
       "Receiving yards allowed to WRs",
@@ -1304,12 +1132,12 @@
      [
       "Catches allowed to WRs",
       "13.4/game",
-      5
+      4
      ],
      [
       "Receiving yards allowed to WRs",
       "187.4/game",
-      3
+      2
      ],
      [
       "Touchdowns allowed to WRs",
@@ -1443,7 +1271,7 @@
      [
       "Passing yards allowed to QBs",
       "250.8/game",
-      8
+      7
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1695,7 +1523,7 @@
      [
       "Passing yards allowed to QBs",
       "237.6/game",
-      15
+      14
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1710,7 +1538,7 @@
      [
       "Touchdowns allowed to RBs",
       "0.9/game",
-      13
+      14
      ],
      [
       "Targets allowed to WRs",
@@ -1752,7 +1580,7 @@
      [
       "Passing touchdowns allowed to QBs",
       "1.1/game",
-      29
+      28
      ],
      [
       "Rushing yards allowed to RBs",
@@ -1782,7 +1610,7 @@
      [
       "Touchdowns allowed to WRs",
       "0.6/game",
-      23
+      24
      ],
      [
       "Receiving yards allowed to TEs",
@@ -1873,7 +1701,7 @@
      [
       "Rushing yards allowed to RBs",
       "67.8/game",
-      31
+      32
      ],
      [
       "Touchdowns allowed to RBs",
@@ -1898,7 +1726,7 @@
      [
       "Touchdowns allowed to WRs",
       "0.6/game",
-      23
+      24
      ],
      [
       "Receiving yards allowed to TEs",
@@ -2001,7 +1829,7 @@
      [
       "Rushing yards allowed to RBs",
       "81.4/game",
-      22
+      21
      ],
      [
       "Touchdowns allowed to RBs",
@@ -2011,7 +1839,7 @@
      [
       "Targets allowed to WRs",
       "19.7/game",
-      8
+      7
      ],
      [
       "Catches allowed to WRs",
