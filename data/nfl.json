@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:37+00:00",
+ "updated": "2026-11-08T12:35+00:00",
  "season": 2026,
  "week": 9,
  "games": [
@@ -162,7 +162,7 @@
      [
       "Cameron Williams",
       "T",
-      "Questionable",
+      "Out",
       "ankle"
      ],
      [
@@ -600,7 +600,7 @@
      [
       "A.J. Haulcy",
       "S",
-      "Questionable",
+      "Out",
       "ankle"
      ]
     ]
@@ -747,13 +747,13 @@
      [
       "Joseph Ossai",
       "DE",
-      "Questionable",
+      "Out",
       "ankle"
      ],
      [
       "Nahshon Wright",
       "CB",
-      "Questionable",
+      "Out",
       "back"
      ],
      [
@@ -771,7 +771,7 @@
      [
       "VJ Payne",
       "S",
-      "Questionable",
+      "Out",
       "knee"
      ]
     ],
@@ -1717,7 +1717,20 @@
     ]
    },
    "injuries": {
-    "away": [],
+    "away": [
+     [
+      "David Montgomery",
+      "RB",
+      "Out",
+      "groin"
+     ],
+     [
+      "Reed Blankenship",
+      "S",
+      "Out",
+      "concussion"
+     ]
+    ],
     "home": [
      [
       "Denzel Perryman",
@@ -2157,7 +2170,7 @@
      [
       "Greg Van Roten",
       "G",
-      "Questionable",
+      "Out",
       "hamstring"
      ],
      [
@@ -2738,8 +2751,76 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Dion Dawkins",
+      "T",
+      "Questionable",
+      "rib"
+     ],
+     [
+      "Greg Gaines",
+      "DT",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "Josh Palmer",
+      "WR",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Alec Anderson",
+      "G",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Tyrell Shavers",
+      "WR",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Jordan Hancock",
+      "CB",
+      "Questionable",
+      "hamstring"
+     ]
+    ],
+    "home": [
+     [
+      "Kyler Murray",
+      "QB",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Jauan Jennings",
+      "WR",
+      "Out",
+      "calf"
+     ],
+     [
+      "Theo Jackson",
+      "S",
+      "Questionable",
+      "quadricep"
+     ],
+     [
+      "Jay Ward",
+      "S",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Demond Claiborne",
+      "RB",
+      "Out",
+      "knee"
+     ]
+    ]
    },
    "series": {
     "summary": "No recent meetings",
