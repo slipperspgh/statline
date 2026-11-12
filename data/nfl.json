@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:52+00:00",
+ "updated": "2026-11-12T12:55+00:00",
  "season": 2026,
  "week": 10,
  "games": [
@@ -114,8 +114,28 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Lucas Patrick",
+      "C",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Colson Yankoff",
+      "TE",
+      "Out",
+      "knee"
+     ]
+    ],
+    "home": [
+     [
+      "Malik Harrison",
+      "LB",
+      "Questionable",
+      "groin"
+     ]
+    ]
    },
    "series": {
     "summary": "WAS won 2 of the last 3",
@@ -282,7 +302,26 @@
     ]
    },
    "injuries": {
-    "away": [],
+    "away": [
+     [
+      "Carlton Davis III",
+      "CB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Ben Brown",
+      "C",
+      "Out",
+      "knee"
+     ],
+     [
+      "TreVeyon Henderson",
+      "RB",
+      "Out",
+      "illness"
+     ]
+    ],
     "home": []
    },
    "series": {
