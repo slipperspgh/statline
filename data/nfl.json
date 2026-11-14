@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:52+00:00",
+ "updated": "2026-11-14T12:36+00:00",
  "season": 2026,
  "week": 10,
  "games": [
@@ -116,22 +116,52 @@
    "injuries": {
     "away": [
      [
+      "Greg Van Roten",
+      "G",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Kevin Byard",
+      "S",
+      "Questionable",
+      "chest"
+     ],
+     [
       "Carlton Davis III",
       "CB",
       "Out",
       "knee"
      ],
      [
+      "A.J. Brown",
+      "WR",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Reggie Gilliam",
+      "FB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Rhamondre Stevenson",
+      "RB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Brenden Schooler",
+      "S",
+      "Questionable",
+      "hamstring"
+     ],
+     [
       "Ben Brown",
       "C",
       "Out",
       "knee"
-     ],
-     [
-      "TreVeyon Henderson",
-      "RB",
-      "Out",
-      "illness"
      ]
     ],
     "home": [
@@ -140,6 +170,12 @@
       "CB",
       "Out",
       "hip"
+     ],
+     [
+      "Amon-Ra St. Brown",
+      "WR",
+      "Questionable",
+      "rib"
      ],
      [
       "Cade Mays",
@@ -152,6 +188,12 @@
       "S",
       "Out",
       "knee"
+     ],
+     [
+      "Sione Vaki",
+      "RB",
+      "Questionable",
+      "ankle"
      ]
     ]
    },
@@ -275,8 +317,76 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Jaylon Moore",
+      "T",
+      "Out",
+      "ankle"
+     ],
+     [
+      "Kenneth Walker III",
+      "RB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Omarr Norman-Lott",
+      "DT",
+      "Out",
+      "knee"
+     ],
+     [
+      "Jaydn Ott",
+      "RB",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Mansoor Delane",
+      "CB",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "Peter Woods",
+      "DT",
+      "Out",
+      "neck"
+     ]
+    ],
+    "home": [
+     [
+      "Josh Woods",
+      "LB",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Divine Deablo",
+      "LB",
+      "Doubtful",
+      "forearm"
+     ],
+     [
+      "Gervon Dexter Sr.",
+      "DT",
+      "Questionable",
+      "illness"
+     ],
+     [
+      "James Pearce Jr.",
+      "DE",
+      "Questionable",
+      "back"
+     ],
+     [
+      "Zachariah Branch",
+      "WR",
+      "Out",
+      "hamstring"
+     ]
+    ]
    },
    "series": {
     "summary": "KC won 1 of the last 1",
@@ -430,8 +540,76 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Danielle Hunter",
+      "DE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Trent Brown",
+      "T",
+      "Questionable",
+      "wrist"
+     ],
+     [
+      "Wyatt Teller",
+      "G",
+      "Questionable",
+      "illness"
+     ],
+     [
+      "Azeez Al-Shaair",
+      "LB",
+      "Out",
+      "groin"
+     ],
+     [
+      "David Montgomery",
+      "RB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Brevin Jordan",
+      "TE",
+      "Out",
+      "finger"
+     ],
+     [
+      "Jacob Hummel",
+      "LB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Will Anderson Jr.",
+      "DE",
+      "Questionable",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Michael Burton",
+      "FB",
+      "Out",
+      "calf"
+     ],
+     [
+      "Ronnie Hickman Jr.",
+      "S",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Denzel Boston",
+      "WR",
+      "Questionable",
+      "toe"
+     ]
+    ]
    },
    "series": {
     "summary": "HOU won 1 of the last 2",
@@ -562,8 +740,106 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Kyle Van Noy",
+      "LB",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "Kyler Murray",
+      "QB",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "T.J. Hockenson",
+      "TE",
+      "Out",
+      "wrist"
+     ],
+     [
+      "Blake Cashman",
+      "LB",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Jauan Jennings",
+      "WR",
+      "Out",
+      "calf"
+     ],
+     [
+      "Josh Metellus",
+      "S",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "Jordan Addison",
+      "WR",
+      "Questionable",
+      "thumb"
+     ],
+     [
+      "Tyrion Ingram-Dawkins",
+      "DT",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Kevin Zeitler",
+      "G",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Zaire Franklin",
+      "LB",
+      "Doubtful",
+      "shin"
+     ],
+     [
+      "Josh Jacobs",
+      "RB",
+      "Out",
+      "finger"
+     ],
+     [
+      "Xavier McKinney",
+      "S",
+      "Questionable",
+      "foot"
+     ],
+     [
+      "Micah Parsons",
+      "LB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Sean Rhyan",
+      "C",
+      "Out",
+      "ankle"
+     ],
+     [
+      "Skyy Moore",
+      "WR",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Josh Whyle",
+      "TE",
+      "Out",
+      "concussion"
+     ]
+    ]
    },
    "series": {
     "summary": "MIN won 2 of the last 3",
@@ -730,8 +1006,82 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Aaron Brewer",
+      "C",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Darrell Baker Jr.",
+      "CB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Jared Wayne",
+      "WR",
+      "Out",
+      "quadricep"
+     ],
+     [
+      "Chris Bell",
+      "WR",
+      "Doubtful",
+      "knee"
+     ]
+    ],
+    "home": [
+     [
+      "Luke Rhodes",
+      "LS",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Mo Alie-Cox",
+      "TE",
+      "Out",
+      "groin"
+     ],
+     [
+      "Arden Key",
+      "DE",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Jerry Tillery",
+      "DT",
+      "Out",
+      "calf"
+     ],
+     [
+      "Akeem Davis-Gaither",
+      "LB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Will Mallory",
+      "TE",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Jaylon Carlies",
+      "LB",
+      "Out",
+      "neck"
+     ],
+     [
+      "Jalen Travis",
+      "T",
+      "Out",
+      "knee"
+     ]
+    ]
    },
    "series": {
     "summary": "MIA won 0 of the last 2",
@@ -894,8 +1244,88 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Mike Jackson",
+      "CB",
+      "Doubtful",
+      "groin"
+     ],
+     [
+      "Bobby Okereke",
+      "LB",
+      "Out",
+      "foot"
+     ],
+     [
+      "Jaelan Phillips",
+      "LB",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Brady Christensen",
+      "G",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Xavier Legette",
+      "WR",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Jonathon Brooks",
+      "RB",
+      "Doubtful",
+      "groin"
+     ],
+     [
+      "Will Lee III",
+      "CB",
+      "Questionable",
+      "hamstring"
+     ]
+    ],
+    "home": [
+     [
+      "Erik McCoy",
+      "C",
+      "Out",
+      "biceps"
+     ],
+     [
+      "Travis Etienne",
+      "RB",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Martin Emerson",
+      "CB",
+      "Questionable",
+      "shin"
+     ],
+     [
+      "Taliese Fuaga",
+      "T",
+      "Out",
+      "knee"
+     ],
+     [
+      "CJ Donaldson",
+      "RB",
+      "Out",
+      "shoulder"
+     ],
+     [
+      "Christen Miller",
+      "DT",
+      "Out",
+      "knee"
+     ]
+    ]
    },
    "series": {
     "summary": "CAR won 1 of the last 3",
@@ -1057,8 +1487,88 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Sam Franklin Jr.",
+      "S",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "Spencer Brown",
+      "T",
+      "Doubtful",
+      "ankle"
+     ],
+     [
+      "Christian Benford",
+      "CB",
+      "Questionable",
+      "wrist"
+     ],
+     [
+      "Tyrell Shavers",
+      "WR",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Jordan Hancock",
+      "CB",
+      "Questionable",
+      "hamstring"
+     ]
+    ],
+    "home": [
+     [
+      "Harrison Phillips",
+      "DT",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Joseph Ossai",
+      "DE",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Nahshon Wright",
+      "CB",
+      "Questionable",
+      "back"
+     ],
+     [
+      "Garrett Wilson",
+      "WR",
+      "Questionable",
+      "concussion"
+     ],
+     [
+      "Trevin Wallace",
+      "LB",
+      "Out",
+      "groin"
+     ],
+     [
+      "Jarvis Brownlee Jr.",
+      "CB",
+      "Questionable",
+      "illness"
+     ],
+     [
+      "Adonai Mitchell",
+      "WR",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "VJ Payne",
+      "S",
+      "Questionable",
+      "knee"
+     ]
+    ]
    },
    "series": {
     "summary": "BUF won 3 of the last 3",
@@ -1225,8 +1735,70 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Jessie Bates",
+      "S",
+      "Out",
+      "not injury related - resting player"
+     ],
+     [
+      "Robert Hainsey",
+      "C",
+      "Questionable",
+      "concussion"
+     ],
+     [
+      "Jordan Davis",
+      "DT",
+      "Out",
+      "not injury related - resting player"
+     ],
+     [
+      "BJ Green II",
+      "DE",
+      "Out",
+      "forearm"
+     ]
+    ],
+    "home": [
+     [
+      "Cody Barton",
+      "LB",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Tommy Townsend",
+      "P",
+      "Out",
+      "knee"
+     ],
+     [
+      "Tyjae Spears",
+      "RB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Peter Skoronski",
+      "G",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Carnell Tate",
+      "WR",
+      "Out",
+      "shoulder"
+     ],
+     [
+      "Anthony Hill Jr.",
+      "LB",
+      "Out",
+      "neck"
+     ]
+    ]
    },
    "series": {
     "summary": "JAX won 3 of the last 3",
@@ -1388,8 +1960,100 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Joe Cardona",
+      "LS",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Myles Garrett",
+      "LB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Kam Curl",
+      "S",
+      "Questionable",
+      "toe"
+     ],
+     [
+      "Trent McDuffie",
+      "CB",
+      "Questionable",
+      "back"
+     ],
+     [
+      "Steve Avila",
+      "G",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Davis Allen",
+      "TE",
+      "Questionable",
+      "oblique"
+     ],
+     [
+      "Terrance Ferguson",
+      "TE",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Hjalte Froholdt",
+      "C",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Andrew Wingard",
+      "S",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Roy Lopez",
+      "DT",
+      "Questionable",
+      "toe"
+     ],
+     [
+      "Hunter Long",
+      "TE",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Zachary Carter",
+      "DT",
+      "Out",
+      "knee"
+     ],
+     [
+      "Jon Gaines II",
+      "G",
+      "Out",
+      "ankle"
+     ],
+     [
+      "Max Melton",
+      "CB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Darius Robinson",
+      "DT",
+      "Questionable",
+      "wrist"
+     ]
+    ]
    },
    "series": {
     "summary": "LA won 2 of the last 3",
@@ -1556,8 +2220,46 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Leonard Williams",
+      "DT",
+      "Out",
+      "stinger"
+     ],
+     [
+      "Quenton Nelson",
+      "G",
+      "Out",
+      "knee"
+     ],
+     [
+      "Sam Darnold",
+      "QB",
+      "Out",
+      "ribs"
+     ],
+     [
+      "Charles Cross",
+      "T",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Thomas Booker",
+      "DT",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Dont'e Thornton Jr.",
+      "WR",
+      "Questionable",
+      "back"
+     ]
+    ]
    },
    "series": {
     "summary": "No recent meetings",
@@ -1685,8 +2387,106 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Trent Williams",
+      "T",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "Mike Evans",
+      "WR",
+      "Out",
+      "achilles"
+     ],
+     [
+      "Dre Greenlaw",
+      "LB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Deommodore Lenoir",
+      "CB",
+      "Questionable",
+      "foot"
+     ],
+     [
+      "Nate Hobbs",
+      "CB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Renardo Green",
+      "CB",
+      "Questionable",
+      "back"
+     ],
+     [
+      "Upton Stout",
+      "CB",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "C.J. West",
+      "DT",
+      "Questionable",
+      "knee"
+     ]
+    ],
+    "home": [
+     [
+      "Jonathan Bullard",
+      "DT",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "P.J. Locke",
+      "S",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Tyler Goodson",
+      "RB",
+      "Out",
+      "ankle"
+     ],
+     [
+      "DaRon Bland",
+      "CB",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Juanyeh Thomas",
+      "S",
+      "Doubtful",
+      "hamstring"
+     ],
+     [
+      "Jake Ferguson",
+      "TE",
+      "Out",
+      "knee"
+     ],
+     [
+      "Jonathan Mingo",
+      "WR",
+      "Out",
+      "ankle"
+     ],
+     [
+      "Joey Porter Jr.",
+      "CB",
+      "Questionable",
+      "ankle"
+     ]
+    ]
    },
    "series": {
     "summary": "SF won 2 of the last 2",
@@ -1839,8 +2639,40 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Derrick Harmon",
+      "DT",
+      "Questionable",
+      "foot"
+     ]
+    ],
+    "home": [
+     [
+      "Jalen Davis",
+      "CB",
+      "Doubtful",
+      "hamstring"
+     ],
+     [
+      "Kyle Dugger",
+      "S",
+      "Out",
+      "quadricep"
+     ],
+     [
+      "Andrei Iosivas",
+      "WR",
+      "Doubtful",
+      "thumb"
+     ],
+     [
+      "Brian Parker II",
+      "G",
+      "Doubtful",
+      "knee"
+     ]
+    ]
    },
    "series": {
     "summary": "PIT won 2 of the last 3",
