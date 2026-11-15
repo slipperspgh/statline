@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:36+00:00",
+ "updated": "2026-11-15T12:37+00:00",
  "season": 2026,
  "week": 10,
  "games": [
@@ -1044,12 +1044,6 @@
       "TE",
       "Out",
       "groin"
-     ],
-     [
-      "Arden Key",
-      "DE",
-      "Questionable",
-      "hamstring"
      ],
      [
       "Jerry Tillery",
@@ -2839,8 +2833,70 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Denzel Perryman",
+      "LB",
+      "Questionable",
+      "pectoral"
+     ],
+     [
+      "David Njoku",
+      "TE",
+      "Questionable",
+      "fibula"
+     ],
+     [
+      "Trey Pipkins",
+      "T",
+      "Questionable",
+      "not injury related - personal matter"
+     ],
+     [
+      "Kayode Awosika",
+      "G",
+      "Questionable",
+      "fibula"
+     ],
+     [
+      "Kendall Williamson",
+      "S",
+      "Out",
+      "calf"
+     ],
+     [
+      "Justin Eboigbe",
+      "DE",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Ladd McConkey",
+      "WR",
+      "Questionable",
+      "back"
+     ],
+     [
+      "Isas Waxter",
+      "CB",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Jaylinn Hawkins",
+      "S",
+      "Out",
+      "knee"
+     ],
+     [
+      "Adam Randall",
+      "RB",
+      "Questionable",
+      "neck"
+     ]
+    ]
    },
    "series": {
     "summary": "LAC won 0 of the last 2",
