@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:59+00:00",
+ "updated": "2026-11-19T16:57+00:00",
  "season": 2026,
  "week": 11,
  "games": [
@@ -134,12 +134,6 @@
       "calf"
      ],
      [
-      "Charlie Heck",
-      "T",
-      "Questionable",
-      "not injury related - personal matter"
-     ],
-     [
       "Sauce Gardner",
       "CB",
       "Questionable",
@@ -162,6 +156,12 @@
       "WR",
       "Questionable",
       "toe"
+     ],
+     [
+      "Jalen Travis",
+      "T",
+      "Out",
+      "knee"
      ]
     ],
     "home": [
