@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:57+00:00",
+ "updated": "2026-11-19T12:59+00:00",
  "season": 2026,
  "week": 11,
  "games": [
@@ -114,8 +114,100 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Luke Rhodes",
+      "LS",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Charvarius Ward",
+      "CB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Jerry Tillery",
+      "DT",
+      "Out",
+      "calf"
+     ],
+     [
+      "Charlie Heck",
+      "T",
+      "Questionable",
+      "not injury related - personal matter"
+     ],
+     [
+      "Sauce Gardner",
+      "CB",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "Bernhard Raimann",
+      "T",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Will Mallory",
+      "TE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Anthony Gould",
+      "WR",
+      "Questionable",
+      "toe"
+     ]
+    ],
+    "home": [
+     [
+      "Danielle Hunter",
+      "DE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Wyatt Teller",
+      "G",
+      "Questionable",
+      "back"
+     ],
+     [
+      "Brevin Jordan",
+      "TE",
+      "Out",
+      "foot"
+     ],
+     [
+      "Jacob Hummel",
+      "LB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Marvin Harrison Jr.",
+      "WR",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Jaylin Smith",
+      "CB",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Woody Marks",
+      "RB",
+      "Out",
+      "concussion"
+     ]
+    ]
    },
    "series": {
     "summary": "IND won 1 of the last 3",
