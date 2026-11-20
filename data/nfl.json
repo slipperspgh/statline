@@ -1,268 +1,8 @@
 {
- "updated": "2026-11-19T20:46+00:00",
+ "updated": "2026-11-20T12:55+00:00",
  "season": 2026,
  "week": 11,
  "games": [
-  {
-   "away": "IND",
-   "home": "HOU",
-   "when": "Thursday 20:15",
-   "defense": {
-    "away": [
-     [
-      "Passing yards allowed to QBs",
-      "235.4/game",
-      19
-     ],
-     [
-      "Passing touchdowns allowed to QBs",
-      "1.6/game",
-      13
-     ],
-     [
-      "Rushing yards allowed to RBs",
-      "107.9/game",
-      10
-     ],
-     [
-      "Touchdowns allowed to RBs",
-      "1.0/game",
-      10
-     ],
-     [
-      "Targets allowed to WRs",
-      "16.9/game",
-      23
-     ],
-     [
-      "Catches allowed to WRs",
-      "9.7/game",
-      27
-     ],
-     [
-      "Receiving yards allowed to WRs",
-      "149.0/game",
-      17
-     ],
-     [
-      "Touchdowns allowed to WRs",
-      "0.8/game",
-      20
-     ],
-     [
-      "Receiving yards allowed to TEs",
-      "45.7/game",
-      24
-     ],
-     [
-      "Touchdowns allowed to TEs",
-      "0.7/game",
-      6
-     ]
-    ],
-    "home": [
-     [
-      "Passing yards allowed to QBs",
-      "263.1/game",
-      2
-     ],
-     [
-      "Passing touchdowns allowed to QBs",
-      "1.3/game",
-      23
-     ],
-     [
-      "Rushing yards allowed to RBs",
-      "89.1/game",
-      19
-     ],
-     [
-      "Touchdowns allowed to RBs",
-      "1.0/game",
-      10
-     ],
-     [
-      "Targets allowed to WRs",
-      "20.9/game",
-      3
-     ],
-     [
-      "Catches allowed to WRs",
-      "12.3/game",
-      11
-     ],
-     [
-      "Receiving yards allowed to WRs",
-      "177.6/game",
-      2
-     ],
-     [
-      "Touchdowns allowed to WRs",
-      "0.9/game",
-      17
-     ],
-     [
-      "Receiving yards allowed to TEs",
-      "51.2/game",
-      17
-     ],
-     [
-      "Touchdowns allowed to TEs",
-      "0.1/game",
-      28
-     ]
-    ]
-   },
-   "injuries": {
-    "away": [
-     [
-      "Luke Rhodes",
-      "LS",
-      "Questionable",
-      "hamstring"
-     ],
-     [
-      "Charvarius Ward",
-      "CB",
-      "Out",
-      "knee"
-     ],
-     [
-      "Jerry Tillery",
-      "DT",
-      "Out",
-      "calf"
-     ],
-     [
-      "Sauce Gardner",
-      "CB",
-      "Questionable",
-      "calf"
-     ],
-     [
-      "Bernhard Raimann",
-      "T",
-      "Out",
-      "concussion"
-     ],
-     [
-      "Will Mallory",
-      "TE",
-      "Out",
-      "hamstring"
-     ],
-     [
-      "Anthony Gould",
-      "WR",
-      "Questionable",
-      "toe"
-     ],
-     [
-      "Jalen Travis",
-      "T",
-      "Out",
-      "knee"
-     ]
-    ],
-    "home": [
-     [
-      "Danielle Hunter",
-      "DE",
-      "Out",
-      "hamstring"
-     ],
-     [
-      "Wyatt Teller",
-      "G",
-      "Questionable",
-      "back"
-     ],
-     [
-      "Brevin Jordan",
-      "TE",
-      "Out",
-      "foot"
-     ],
-     [
-      "Jacob Hummel",
-      "LB",
-      "Questionable",
-      "groin"
-     ],
-     [
-      "Marvin Harrison Jr.",
-      "WR",
-      "Out",
-      "hamstring"
-     ],
-     [
-      "Jaylin Smith",
-      "CB",
-      "Questionable",
-      "hamstring"
-     ],
-     [
-      "Woody Marks",
-      "RB",
-      "Out",
-      "concussion"
-     ]
-    ]
-   },
-   "series": {
-    "summary": "IND won 1 of the last 3",
-    "meetings": [
-     [
-      "2026, Week 3",
-      "IND 19, HOU 17"
-     ],
-     [
-      "2025, Week 18",
-      "HOU 38, IND 30"
-     ],
-     [
-      "2025, Week 13",
-      "IND 16, HOU 20"
-     ]
-    ]
-   },
-   "history": {
-    "away": [
-     [
-      "Daniel Jones",
-      "2 games",
-      "218 pass yds/game"
-     ],
-     [
-      "Jonathan Taylor",
-      "5 games",
-      "66 rush yds/game"
-     ],
-     [
-      "Josh Downs",
-      "4 games",
-      "73 rec yds/game"
-     ]
-    ],
-    "home": [
-     [
-      "C.J. Stroud",
-      "5 games",
-      "226 pass yds/game"
-     ],
-     [
-      "Woody Marks",
-      "3 games",
-      "42 rush yds/game"
-     ],
-     [
-      "Nico Collins",
-      "2 games",
-      "108 rec yds/game"
-     ]
-    ]
-   }
-  },
   {
    "away": "MIA",
    "home": "BUF",
@@ -282,7 +22,7 @@
      [
       "Rushing yards allowed to RBs",
       "109.9/game",
-      7
+      8
      ],
      [
       "Touchdowns allowed to RBs",
@@ -324,12 +64,12 @@
      [
       "Passing yards allowed to QBs",
       "256.3/game",
-      7
+      6
      ],
      [
       "Passing touchdowns allowed to QBs",
       "1.7/game",
-      12
+      13
      ],
      [
       "Rushing yards allowed to RBs",
@@ -344,7 +84,7 @@
      [
       "Targets allowed to WRs",
       "20.6/game",
-      5
+      4
      ],
      [
       "Catches allowed to WRs",
@@ -440,12 +180,12 @@
      [
       "Passing touchdowns allowed to QBs",
       "1.2/game",
-      27
+      26
      ],
      [
       "Rushing yards allowed to RBs",
       "84.1/game",
-      21
+      20
      ],
      [
       "Touchdowns allowed to RBs",
@@ -475,7 +215,7 @@
      [
       "Receiving yards allowed to TEs",
       "49.3/game",
-      21
+      20
      ],
      [
       "Touchdowns allowed to TEs",
@@ -578,7 +318,7 @@
      [
       "Targets allowed to WRs",
       "16.8/game",
-      24
+      23
      ],
      [
       "Catches allowed to WRs",
@@ -645,12 +385,12 @@
      [
       "Touchdowns allowed to WRs",
       "0.9/game",
-      17
+      18
      ],
      [
       "Receiving yards allowed to TEs",
       "49.3/game",
-      20
+      19
      ],
      [
       "Touchdowns allowed to TEs",
@@ -737,7 +477,7 @@
      [
       "Targets allowed to WRs",
       "20.7/game",
-      4
+      3
      ],
      [
       "Catches allowed to WRs",
@@ -769,7 +509,7 @@
      [
       "Passing yards allowed to QBs",
       "252.2/game",
-      8
+      7
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -892,7 +632,7 @@
      [
       "Passing yards allowed to QBs",
       "260.1/game",
-      4
+      3
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -912,7 +652,7 @@
      [
       "Targets allowed to WRs",
       "20.2/game",
-      6
+      5
      ],
      [
       "Catches allowed to WRs",
@@ -1008,7 +748,7 @@
      [
       "Passing yards allowed to QBs",
       "232.5/game",
-      20
+      19
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1018,7 +758,7 @@
      [
       "Rushing yards allowed to RBs",
       "110.0/game",
-      6
+      7
      ],
      [
       "Touchdowns allowed to RBs",
@@ -1033,7 +773,7 @@
      [
       "Catches allowed to WRs",
       "9.7/game",
-      27
+      28
      ],
      [
       "Receiving yards allowed to WRs",
@@ -1048,7 +788,7 @@
      [
       "Receiving yards allowed to TEs",
       "50.3/game",
-      19
+      18
      ],
      [
       "Touchdowns allowed to TEs",
@@ -1173,7 +913,7 @@
      [
       "Receiving yards allowed to WRs",
       "170.2/game",
-      5
+      4
      ],
      [
       "Touchdowns allowed to WRs",
@@ -1277,7 +1017,7 @@
      [
       "Passing touchdowns allowed to QBs",
       "1.7/game",
-      10
+      11
      ],
      [
       "Rushing yards allowed to RBs",
@@ -1574,12 +1314,12 @@
      [
       "Passing yards allowed to QBs",
       "260.6/game",
-      3
+      2
      ],
      [
       "Passing touchdowns allowed to QBs",
       "1.2/game",
-      25
+      24
      ],
      [
       "Rushing yards allowed to RBs",
@@ -1636,7 +1376,7 @@
      [
       "Rushing yards allowed to RBs",
       "108.9/game",
-      9
+      10
      ],
      [
       "Touchdowns allowed to RBs",
@@ -1739,7 +1479,7 @@
      [
       "Targets allowed to WRs",
       "16.8/game",
-      24
+      23
      ],
      [
       "Catches allowed to WRs",
@@ -1796,7 +1536,7 @@
      [
       "Catches allowed to WRs",
       "11.9/game",
-      12
+      11
      ],
      [
       "Receiving yards allowed to WRs",
@@ -1878,12 +1618,12 @@
      [
       "Passing touchdowns allowed to QBs",
       "1.2/game",
-      25
+      24
      ],
      [
       "Rushing yards allowed to RBs",
       "87.9/game",
-      20
+      19
      ],
      [
       "Touchdowns allowed to RBs",
@@ -1925,7 +1665,7 @@
      [
       "Passing yards allowed to QBs",
       "258.6/game",
-      5
+      4
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1960,7 +1700,7 @@
      [
       "Touchdowns allowed to WRs",
       "0.9/game",
-      17
+      18
      ],
      [
       "Receiving yards allowed to TEs",
