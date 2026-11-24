@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-23T20:44+00:00",
+ "updated": "2026-11-24T13:01+00:00",
  "season": 2026,
- "week": 11,
+ "week": 12,
  "games": [
   {
-   "away": "CIN",
-   "home": "WAS",
-   "when": "Monday 20:15",
+   "away": "GB",
+   "home": "LA",
+   "when": "Wednesday 20:00",
    "defense": {
     "away": [
      [
       "Passing yards allowed to QBs",
-      "237.1/game",
-      16
+      "229.4/game",
+      23
      ],
      [
       "Passing touchdowns allowed to QBs",
-      "1.2/game",
-      25
+      "1.5/game",
+      16
      ],
      [
       "Rushing yards allowed to RBs",
-      "87.9/game",
-      19
+      "94.5/game",
+      16
      ],
      [
       "Touchdowns allowed to RBs",
-      "0.7/game",
-      25
+      "1.4/game",
+      4
      ],
      [
       "Targets allowed to WRs",
-      "17.1/game",
-      21
+      "21.7/game",
+      1
      ],
      [
       "Catches allowed to WRs",
-      "10.1/game",
-      22
+      "14.0/game",
+      2
      ],
      [
       "Receiving yards allowed to WRs",
-      "128.3/game",
-      27
+      "155.9/game",
+      10
      ],
      [
       "Touchdowns allowed to WRs",
@@ -51,8 +51,2060 @@
      ],
      [
       "Receiving yards allowed to TEs",
-      "76.1/game",
+      "41.2/game",
+      31
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      18
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "197.7/game",
+      31
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.1/game",
+      26
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "72.6/game",
+      25
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.3/game",
+      32
+     ],
+     [
+      "Targets allowed to WRs",
+      "15.1/game",
+      31
+     ],
+     [
+      "Catches allowed to WRs",
+      "8.7/game",
+      32
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "111.3/game",
+      31
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.9/game",
+      16
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "47.1/game",
+      21
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.1/game",
+      29
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "GB won 2 of the last 2",
+    "meetings": [
+     [
+      "2024, Week 5",
+      "LA 19, GB 24"
+     ],
+     [
+      "2023, Week 9",
+      "GB 20, LA 3"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Jordan Love",
+      "1 games",
+      "224 pass yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Matthew Stafford",
+      "1 games",
+      "260 pass yds/game"
+     ],
+     [
+      "Kyren Williams",
+      "1 games",
+      "102 rush yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "CHI",
+   "home": "DET",
+   "when": "Thursday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "234.2/game",
+      18
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.4/game",
+      20
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "77.1/game",
+      23
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.8/game",
+      17
+     ],
+     [
+      "Targets allowed to WRs",
+      "16.9/game",
+      23
+     ],
+     [
+      "Catches allowed to WRs",
+      "10.0/game",
+      24
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "151.1/game",
+      14
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.8/game",
+      20
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "46.9/game",
+      22
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      18
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "252.8/game",
+      4
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "2.1/game",
+      2
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "69.3/game",
+      30
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.7/game",
+      22
+     ],
+     [
+      "Targets allowed to WRs",
+      "20.0/game",
+      9
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.7/game",
+      4
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "150.5/game",
+      15
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.8/game",
+      20
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "74.0/game",
+      3
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "1.1/game",
       1
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "CHI won 0 of the last 3",
+    "meetings": [
+     [
+      "2025, Week 18",
+      "CHI 16, DET 19"
+     ],
+     [
+      "2025, Week 2",
+      "DET 52, CHI 21"
+     ],
+     [
+      "2024, Week 16",
+      "CHI 17, DET 34"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Caleb Williams",
+      "4 games",
+      "252 pass yds/game"
+     ],
+     [
+      "D'Andre Swift",
+      "4 games",
+      "40 rush yds/game"
+     ],
+     [
+      "Luther Burden III",
+      "2 games",
+      "20 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Jared Goff",
+      "4 games",
+      "306 pass yds/game"
+     ],
+     [
+      "Jahmyr Gibbs",
+      "4 games",
+      "92 rush yds/game"
+     ],
+     [
+      "Amon-Ra St. Brown",
+      "4 games",
+      "99 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "PHI",
+   "home": "DAL",
+   "when": "Thursday 16:30",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "237.7/game",
+      16
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.4/game",
+      20
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "102.3/game",
+      11
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.6/game",
+      26
+     ],
+     [
+      "Targets allowed to WRs",
+      "21.7/game",
+      1
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.9/game",
+      3
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "174.4/game",
+      2
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.1/game",
+      6
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "44.7/game",
+      24
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      18
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "251.8/game",
+      6
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.9/game",
+      4
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "113.5/game",
+      3
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.5/game",
+      3
+     ],
+     [
+      "Targets allowed to WRs",
+      "18.5/game",
+      16
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.0/game",
+      12
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "163.8/game",
+      6
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.1/game",
+      10
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "49.5/game",
+      19
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.4/game",
+      17
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "PHI won 1 of the last 3",
+    "meetings": [
+     [
+      "2026, Week 7",
+      "PHI 21, DAL 38"
+     ],
+     [
+      "2025, Week 12",
+      "DAL 24, PHI 21"
+     ],
+     [
+      "2025, Week 1",
+      "PHI 24, DAL 20"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Jalen Hurts",
+      "3 games",
+      "214 pass yds/game"
+     ],
+     [
+      "Saquon Barkley",
+      "5 games",
+      "75 rush yds/game"
+     ],
+     [
+      "DeVonta Smith",
+      "4 games",
+      "60 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Dak Prescott",
+      "3 games",
+      "251 pass yds/game"
+     ],
+     [
+      "Javonte Williams",
+      "3 games",
+      "99 rush yds/game"
+     ],
+     [
+      "CeeDee Lamb",
+      "4 games",
+      "70 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "KC",
+   "home": "BUF",
+   "when": "Thursday 20:20",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "220.5/game",
+      25
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "0.8/game",
+      32
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "71.9/game",
+      27
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.6/game",
+      26
+     ],
+     [
+      "Targets allowed to WRs",
+      "18.1/game",
+      18
+     ],
+     [
+      "Catches allowed to WRs",
+      "9.7/game",
+      30
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "119.6/game",
+      29
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.3/game",
+      32
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "64.6/game",
+      6
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.5/game",
+      12
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "240.9/game",
+      13
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.5/game",
+      16
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "78.1/game",
+      22
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.0/game",
+      10
+     ],
+     [
+      "Targets allowed to WRs",
+      "20.7/game",
+      4
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.1/game",
+      17
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "144.4/game",
+      20
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.1/game",
+      6
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "56.2/game",
+      11
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.1/game",
+      29
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "KC won 1 of the last 3",
+    "meetings": [
+     [
+      "2025, Week 9",
+      "BUF 28, KC 21"
+     ],
+     [
+      "2024, Week 21",
+      "KC 32, BUF 29"
+     ],
+     [
+      "2024, Week 11",
+      "BUF 30, KC 21"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Patrick Mahomes",
+      "2 games",
+      "223 pass yds/game"
+     ],
+     [
+      "Kenneth Walker III",
+      "1 games",
+      "12 rush yds/game"
+     ],
+     [
+      "Rashee Rice",
+      "1 games",
+      "80 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Josh Allen",
+      "2 games",
+      "268 pass yds/game"
+     ],
+     [
+      "James Cook",
+      "2 games",
+      "67 rush yds/game"
+     ],
+     [
+      "Khalil Shakir",
+      "2 games",
+      "56 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "DEN",
+   "home": "PIT",
+   "when": "Friday 15:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "251.6/game",
+      7
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.7/game",
+      12
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "100.5/game",
+      13
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.8/game",
+      17
+     ],
+     [
+      "Targets allowed to WRs",
+      "19.1/game",
+      15
+     ],
+     [
+      "Catches allowed to WRs",
+      "10.7/game",
+      20
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "132.0/game",
+      26
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.6/game",
+      27
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "70.2/game",
+      4
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.8/game",
+      5
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "248.6/game",
+      9
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.1/game",
+      26
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "71.4/game",
+      28
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.8/game",
+      17
+     ],
+     [
+      "Targets allowed to WRs",
+      "20.1/game",
+      7
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.4/game",
+      10
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "152.8/game",
+      13
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.5/game",
+      29
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "52.2/game",
+      17
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      18
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "DEN won 0 of the last 1",
+    "meetings": [
+     [
+      "2024, Week 2",
+      "DEN 6, PIT 13"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Bo Nix",
+      "1 games",
+      "246 pass yds/game"
+     ],
+     [
+      "J.K. Dobbins",
+      "1 games",
+      "44 rush yds/game"
+     ],
+     [
+      "Jaylen Waddle",
+      "1 games",
+      "26 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Aaron Rodgers",
+      "1 games",
+      "225 pass yds/game"
+     ],
+     [
+      "Jaylen Warren",
+      "1 games",
+      "42 rush yds/game"
+     ],
+     [
+      "DK Metcalf",
+      "1 games",
+      "29 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "NO",
+   "home": "CIN",
+   "when": "Sunday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "242.6/game",
+      11
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.5/game",
+      16
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "110.2/game",
+      7
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.5/game",
+      2
+     ],
+     [
+      "Targets allowed to WRs",
+      "16.5/game",
+      26
+     ],
+     [
+      "Catches allowed to WRs",
+      "10.0/game",
+      24
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "139.5/game",
+      22
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.7/game",
+      23
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "64.1/game",
+      7
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.6/game",
+      8
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "242.3/game",
+      12
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.1/game",
+      26
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "88.6/game",
+      19
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.7/game",
+      22
+     ],
+     [
+      "Targets allowed to WRs",
+      "17.5/game",
+      21
+     ],
+     [
+      "Catches allowed to WRs",
+      "10.6/game",
+      21
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "135.2/game",
+      25
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.9/game",
+      16
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "75.1/game",
+      2
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.2/game",
+      26
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "No recent meetings",
+    "meetings": []
+   },
+   "history": {
+    "away": [
+     [
+      "Travis Etienne",
+      "1 games",
+      "71 rush yds/game"
+     ]
+    ],
+    "home": []
+   }
+  },
+  {
+   "away": "LV",
+   "home": "CLE",
+   "when": "Sunday 20:20",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "245.7/game",
+      10
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "2.1/game",
+      3
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "129.9/game",
+      1
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.3/game",
+      5
+     ],
+     [
+      "Targets allowed to WRs",
+      "16.5/game",
+      27
+     ],
+     [
+      "Catches allowed to WRs",
+      "9.9/game",
+      26
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "162.6/game",
+      7
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.2/game",
+      4
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "54.6/game",
+      13
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.8/game",
+      4
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "219.3/game",
+      27
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.5/game",
+      16
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "110.4/game",
+      6
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.7/game",
+      22
+     ],
+     [
+      "Targets allowed to WRs",
+      "19.7/game",
+      10
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.3/game",
+      15
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "146.5/game",
+      18
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.9/game",
+      16
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "53.1/game",
+      16
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.6/game",
+      8
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "LV won 1 of the last 2",
+    "meetings": [
+     [
+      "2025, Week 12",
+      "LV 10, CLE 24"
+     ],
+     [
+      "2024, Week 4",
+      "LV 20, CLE 16"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Ashton Jeanty",
+      "1 games",
+      "50 rush yds/game"
+     ],
+     [
+      "Tre Tucker",
+      "2 games",
+      "34 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Deshaun Watson",
+      "1 games",
+      "176 pass yds/game"
+     ],
+     [
+      "Quinshon Judkins",
+      "1 games",
+      "47 rush yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "BAL",
+   "home": "HOU",
+   "when": "Sunday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "232.7/game",
+      19
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.3/game",
+      24
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "90.0/game",
+      18
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.1/game",
+      8
+     ],
+     [
+      "Targets allowed to WRs",
+      "17.7/game",
+      20
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.5/game",
+      14
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "162.5/game",
+      8
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.6/game",
+      26
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "54.3/game",
+      15
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.6/game",
+      7
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "251.2/game",
+      8
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.2/game",
+      25
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "83.5/game",
+      21
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.9/game",
+      13
+     ],
+     [
+      "Targets allowed to WRs",
+      "20.2/game",
+      6
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.6/game",
+      13
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "170.2/game",
+      4
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.8/game",
+      20
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "48.3/game",
+      20
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.1/game",
+      29
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "BAL won 2 of the last 3",
+    "meetings": [
+     [
+      "2025, Week 5",
+      "BAL 10, HOU 44"
+     ],
+     [
+      "2024, Week 17",
+      "HOU 2, BAL 31"
+     ],
+     [
+      "2023, Week 20",
+      "BAL 34, HOU 10"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Lamar Jackson",
+      "1 games",
+      "168 pass yds/game"
+     ],
+     [
+      "Derrick Henry",
+      "2 games",
+      "90 rush yds/game"
+     ],
+     [
+      "Zay Flowers",
+      "2 games",
+      "52 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "C.J. Stroud",
+      "2 games",
+      "214 pass yds/game"
+     ],
+     [
+      "Woody Marks",
+      "1 games",
+      "24 rush yds/game"
+     ],
+     [
+      "Nico Collins",
+      "2 games",
+      "56 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "NYG",
+   "home": "IND",
+   "when": "Sunday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "206.4/game",
+      28
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.8/game",
+      7
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "87.7/game",
+      20
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.7/game",
+      22
+     ],
+     [
+      "Targets allowed to WRs",
+      "20.1/game",
+      7
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.1/game",
+      17
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "138.9/game",
+      23
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.2/game",
+      3
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "44.5/game",
+      26
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      18
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "231.6/game",
+      21
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.7/game",
+      10
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "110.8/game",
+      5
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.9/game",
+      12
+     ],
+     [
+      "Targets allowed to WRs",
+      "16.6/game",
+      25
+     ],
+     [
+      "Catches allowed to WRs",
+      "9.7/game",
+      28
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "148.0/game",
+      17
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.9/game",
+      15
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "45.5/game",
+      23
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.7/game",
+      6
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "NYG won 1 of the last 1",
+    "meetings": [
+     [
+      "2024, Week 17",
+      "NYG 45, IND 33"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Malik Nabers",
+      "1 games",
+      "171 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Jonathan Taylor",
+      "1 games",
+      "125 rush yds/game"
+     ],
+     [
+      "Josh Downs",
+      "1 games",
+      "22 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "NYJ",
+   "home": "MIA",
+   "when": "Sunday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "203.3/game",
+      29
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.7/game",
+      10
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "116.6/game",
+      2
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.1/game",
+      8
+     ],
+     [
+      "Targets allowed to WRs",
+      "15.3/game",
+      30
+     ],
+     [
+      "Catches allowed to WRs",
+      "9.7/game",
+      28
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "117.0/game",
+      30
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.1/game",
+      10
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "60.1/game",
+      8
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      25
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "219.8/game",
+      26
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.8/game",
+      7
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "108.3/game",
+      9
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.0/game",
+      10
+     ],
+     [
+      "Targets allowed to WRs",
+      "14.0/game",
+      32
+     ],
+     [
+      "Catches allowed to WRs",
+      "9.8/game",
+      27
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "128.2/game",
+      28
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.7/game",
+      23
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "58.2/game",
+      10
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.6/game",
+      8
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "NYJ won 0 of the last 3",
+    "meetings": [
+     [
+      "2026, Week 7",
+      "NYJ 25, MIA 28"
+     ],
+     [
+      "2025, Week 14",
+      "NYJ 10, MIA 34"
+     ],
+     [
+      "2025, Week 4",
+      "MIA 27, NYJ 21"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Geno Smith",
+      "2 games",
+      "288 pass yds/game"
+     ],
+     [
+      "Braelon Allen",
+      "4 games",
+      "47 rush yds/game"
+     ],
+     [
+      "Garrett Wilson",
+      "4 games",
+      "68 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Malik Willis",
+      "1 games",
+      "208 pass yds/game"
+     ],
+     [
+      "Ollie Gordon II",
+      "3 games",
+      "43 rush yds/game"
+     ],
+     [
+      "Malik Washington",
+      "5 games",
+      "20 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "ATL",
+   "home": "MIN",
+   "when": "Sunday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "251.9/game",
+      5
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.9/game",
+      5
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "108.9/game",
+      8
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.2/game",
+      6
+     ],
+     [
+      "Targets allowed to WRs",
+      "19.2/game",
+      13
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.6/game",
+      5
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "164.9/game",
+      5
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.0/game",
+      12
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "51.0/game",
+      18
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.4/game",
+      16
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "197.8/game",
+      30
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "0.9/game",
+      30
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "95.1/game",
+      15
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.6/game",
+      26
+     ],
+     [
+      "Targets allowed to WRs",
+      "16.7/game",
+      24
+     ],
+     [
+      "Catches allowed to WRs",
+      "10.5/game",
+      22
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "131.6/game",
+      27
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.6/game",
+      27
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "43.6/game",
+      28
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.3/game",
+      18
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "ATL won 1 of the last 3",
+    "meetings": [
+     [
+      "2025, Week 2",
+      "MIN 6, ATL 22"
+     ],
+     [
+      "2024, Week 14",
+      "MIN 42, ATL 21"
+     ],
+     [
+      "2023, Week 9",
+      "ATL 28, MIN 31"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Michael Penix Jr.",
+      "1 games",
+      "135 pass yds/game"
+     ],
+     [
+      "Bijan Robinson",
+      "2 games",
+      "118 rush yds/game"
+     ],
+     [
+      "Drake London",
+      "2 games",
+      "60 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Aaron Jones",
+      "2 games",
+      "48 rush yds/game"
+     ],
+     [
+      "Justin Jefferson",
+      "2 games",
+      "106 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "TEN",
+   "home": "JAX",
+   "when": "Sunday 13:00",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "285.9/game",
+      1
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.8/game",
+      7
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "99.1/game",
+      14
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.9/game",
+      13
+     ],
+     [
+      "Targets allowed to WRs",
+      "21.0/game",
+      3
+     ],
+     [
+      "Catches allowed to WRs",
+      "15.7/game",
+      1
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "208.6/game",
+      1
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.1/game",
+      6
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "42.3/game",
+      30
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.6/game",
+      8
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "229.8/game",
+      22
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.1/game",
+      26
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "64.6/game",
+      32
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.5/game",
+      29
+     ],
+     [
+      "Targets allowed to WRs",
+      "19.5/game",
+      11
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.4/game",
+      10
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "162.2/game",
+      9
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.5/game",
+      29
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "34.3/game",
+      32
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.5/game",
+      12
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "TEN won 0 of the last 3",
+    "meetings": [
+     [
+      "2026, Week 10",
+      "TEN 23, JAX 40"
+     ],
+     [
+      "2025, Week 18",
+      "JAX 41, TEN 7"
+     ],
+     [
+      "2025, Week 13",
+      "TEN 3, JAX 25"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Cam Ward",
+      "3 games",
+      "141 pass yds/game"
+     ],
+     [
+      "Tony Pollard",
+      "4 games",
+      "61 rush yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Trevor Lawrence",
+      "3 games",
+      "279 pass yds/game"
+     ],
+     [
+      "Bhayshul Tuten",
+      "3 games",
+      "43 rush yds/game"
+     ],
+     [
+      "Parker Washington",
+      "5 games",
+      "62 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "WAS",
+   "home": "ARI",
+   "when": "Sunday 16:25",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "262.7/game",
+      2
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.9/game",
+      5
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "74.6/game",
+      24
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.8/game",
+      17
+     ],
+     [
+      "Targets allowed to WRs",
+      "19.2/game",
+      13
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.5/game",
+      9
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "142.3/game",
+      21
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.0/game",
+      12
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "80.4/game",
+      1
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.9/game",
+      3
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "240.8/game",
+      14
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "2.3/game",
+      1
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "110.9/game",
+      4
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.8/game",
+      16
+     ],
+     [
+      "Targets allowed to WRs",
+      "16.1/game",
+      28
+     ],
+     [
+      "Catches allowed to WRs",
+      "10.1/game",
+      23
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "152.9/game",
+      12
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.2/game",
+      4
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "54.4/game",
+      14
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.9/game",
+      2
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "WAS won 2 of the last 2",
+    "meetings": [
+     [
+      "2024, Week 4",
+      "ARI 14, WAS 42"
+     ],
+     [
+      "2023, Week 1",
+      "WAS 20, ARI 16"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Jayden Daniels",
+      "1 games",
+      "233 pass yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Tyler Allgeier",
+      "2 games",
+      "35 rush yds/game"
+     ],
+     [
+      "Michael Wilson",
+      "1 games",
+      "38 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "SEA",
+   "home": "SF",
+   "when": "Sunday 16:25",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "166.2/game",
+      32
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "0.9/game",
+      30
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "67.0/game",
+      31
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.9/game",
+      13
+     ],
+     [
+      "Targets allowed to WRs",
+      "15.9/game",
+      29
+     ],
+     [
+      "Catches allowed to WRs",
+      "9.0/game",
+      31
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "93.6/game",
+      32
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.5/game",
+      29
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "42.6/game",
+      29
      ],
      [
       "Touchdowns allowed to TEs",
@@ -63,171 +2115,436 @@
     "home": [
      [
       "Passing yards allowed to QBs",
-      "258.6/game",
-      2
+      "239.0/game",
+      15
      ],
      [
       "Passing touchdowns allowed to QBs",
-      "1.9/game",
-      6
+      "1.6/game",
+      14
      ],
      [
       "Rushing yards allowed to RBs",
-      "79.3/game",
-      22
+      "72.0/game",
+      26
      ],
      [
       "Touchdowns allowed to RBs",
-      "0.9/game",
-      16
+      "0.5/game",
+      29
      ],
      [
       "Targets allowed to WRs",
-      "19.6/game",
-      11
-     ],
-     [
-      "Catches allowed to WRs",
-      "12.9/game",
+      "20.7/game",
       4
      ],
      [
-      "Receiving yards allowed to WRs",
-      "149.2/game",
-      16
+      "Catches allowed to WRs",
+      "12.6/game",
+      5
      ],
      [
-      "Touchdowns allowed to WRs",
-      "0.9/game",
+      "Receiving yards allowed to WRs",
+      "146.1/game",
       19
      ],
      [
+      "Touchdowns allowed to WRs",
+      "1.1/game",
+      6
+     ],
+     [
       "Receiving yards allowed to TEs",
-      "76.1/game",
-      1
+      "55.1/game",
+      12
      ],
      [
       "Touchdowns allowed to TEs",
-      "1.0/game",
-      2
+      "0.3/game",
+      18
      ]
     ]
    },
    "injuries": {
-    "away": [
-     [
-      "Jalen Davis",
-      "CB",
-      "Doubtful",
-      "hamstring"
-     ],
-     [
-      "Oren Burks",
-      "LB",
-      "Out",
-      "groin"
-     ],
-     [
-      "Dalton Risner",
-      "G",
-      "Out",
-      "knee"
-     ],
-     [
-      "Kyle Dugger",
-      "S",
-      "Questionable",
-      "quadricep"
-     ],
-     [
-      "Daxton Hill",
-      "CB",
-      "Questionable",
-      "illness"
-     ],
-     [
-      "Andrei Iosivas",
-      "WR",
-      "Doubtful",
-      "thumb"
-     ],
-     [
-      "Swayze Bozeman",
-      "LB",
-      "Questionable",
-      "forearm"
-     ],
-     [
-      "Dylan Fairchild",
-      "G",
-      "Questionable",
-      "oblique"
-     ]
-    ],
-    "home": [
-     [
-      "Lucas Patrick",
-      "C",
-      "Questionable",
-      "concussion"
-     ],
-     [
-      "Amik Robertson",
-      "CB",
-      "Questionable",
-      "ankle"
-     ],
-     [
-      "Rachaad White",
-      "RB",
-      "Questionable",
-      "heel"
-     ],
-     [
-      "Jacory Croskey-Merritt",
-      "RB",
-      "Questionable",
-      "groin"
-     ]
-    ]
+    "away": [],
+    "home": []
    },
    "series": {
-    "summary": "CIN won 0 of the last 1",
+    "summary": "SEA won 2 of the last 3",
     "meetings": [
      [
-      "2024, Week 3",
-      "CIN 33, WAS 38"
+      "2026, Week 5",
+      "SEA 29, SF 32"
+     ],
+     [
+      "2025, Week 20",
+      "SEA 41, SF 6"
+     ],
+     [
+      "2025, Week 18",
+      "SF 3, SEA 13"
      ]
     ]
    },
    "history": {
     "away": [
      [
-      "Joe Burrow",
-      "1 games",
-      "324 pass yds/game"
+      "Sam Darnold",
+      "4 games",
+      "203 pass yds/game"
      ],
      [
-      "Chase Brown",
-      "1 games",
-      "62 rush yds/game"
+      "Emanuel Wilson",
+      "2 games",
+      "51 rush yds/game"
      ],
      [
-      "Ja'Marr Chase",
-      "1 games",
-      "118 rec yds/game"
+      "Jaxon Smith-Njigba",
+      "5 games",
+      "95 rec yds/game"
      ]
     ],
     "home": [
      [
-      "Jayden Daniels",
-      "1 games",
-      "254 pass yds/game"
+      "Brock Purdy",
+      "5 games",
+      "201 pass yds/game"
      ],
      [
-      "Stefon Diggs",
+      "Christian McCaffrey",
+      "4 games",
+      "60 rush yds/game"
+     ],
+     [
+      "Mike Evans",
       "1 games",
-      "20 rec yds/game"
+      "113 rec yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "NE",
+   "home": "LAC",
+   "when": "Sunday 16:05",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "256.6/game",
+      3
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.7/game",
+      12
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "94.3/game",
+      17
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.8/game",
+      17
+     ],
+     [
+      "Targets allowed to WRs",
+      "17.9/game",
+      19
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.6/game",
+      5
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "174.4/game",
+      2
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.5/game",
+      1
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "44.7/game",
+      24
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.2/game",
+      26
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "236.1/game",
+      17
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.6/game",
+      14
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "101.5/game",
+      12
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.2/game",
+      6
+     ],
+     [
+      "Targets allowed to WRs",
+      "17.0/game",
+      22
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.2/game",
+      16
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "153.8/game",
+      11
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "1.3/game",
+      2
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "58.3/game",
+      9
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.1/game",
+      29
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "NE won 1 of the last 3",
+    "meetings": [
+     [
+      "2025, Week 19",
+      "NE 16, LAC 3"
+     ],
+     [
+      "2024, Week 17",
+      "NE 7, LAC 40"
+     ],
+     [
+      "2023, Week 13",
+      "NE 0, LAC 6"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Drake Maye",
+      "1 games",
+      "117 pass yds/game"
+     ],
+     [
+      "Rhamondre Stevenson",
+      "1 games",
+      "1 rush yds/game"
+     ],
+     [
+      "DeMario Douglas",
+      "1 games",
+      "46 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Justin Herbert",
+      "1 games",
+      "281 pass yds/game"
+     ]
+    ]
+   }
+  },
+  {
+   "away": "CAR",
+   "home": "TB",
+   "when": "Monday 20:15",
+   "defense": {
+    "away": [
+     [
+      "Passing yards allowed to QBs",
+      "223.7/game",
+      24
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.4/game",
+      20
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "107.1/game",
+      10
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "1.6/game",
+      1
+     ],
+     [
+      "Targets allowed to WRs",
+      "19.5/game",
+      11
+     ],
+     [
+      "Catches allowed to WRs",
+      "12.6/game",
+      5
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "148.7/game",
+      16
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.7/game",
+      23
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "44.1/game",
+      27
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.5/game",
+      12
+     ]
+    ],
+    "home": [
+     [
+      "Passing yards allowed to QBs",
+      "231.9/game",
+      20
+     ],
+     [
+      "Passing touchdowns allowed to QBs",
+      "1.4/game",
+      20
+     ],
+     [
+      "Rushing yards allowed to RBs",
+      "69.5/game",
+      29
+     ],
+     [
+      "Touchdowns allowed to RBs",
+      "0.5/game",
+      29
+     ],
+     [
+      "Targets allowed to WRs",
+      "18.3/game",
+      17
+     ],
+     [
+      "Catches allowed to WRs",
+      "11.1/game",
+      17
+     ],
+     [
+      "Receiving yards allowed to WRs",
+      "138.2/game",
+      24
+     ],
+     [
+      "Touchdowns allowed to WRs",
+      "0.9/game",
+      16
+     ],
+     [
+      "Receiving yards allowed to TEs",
+      "64.8/game",
+      5
+     ],
+     [
+      "Touchdowns allowed to TEs",
+      "0.5/game",
+      12
+     ]
+    ]
+   },
+   "injuries": {
+    "away": [],
+    "home": []
+   },
+   "series": {
+    "summary": "CAR won 1 of the last 3",
+    "meetings": [
+     [
+      "2026, Week 7",
+      "CAR 13, TB 43"
+     ],
+     [
+      "2025, Week 18",
+      "TB 16, CAR 14"
+     ],
+     [
+      "2025, Week 16",
+      "CAR 23, TB 20"
+     ]
+    ]
+   },
+   "history": {
+    "away": [
+     [
+      "Bryce Young",
+      "5 games",
+      "224 pass yds/game"
+     ],
+     [
+      "Chuba Hubbard",
+      "4 games",
+      "28 rush yds/game"
+     ],
+     [
+      "Tetairoa McMillan",
+      "3 games",
+      "66 rec yds/game"
+     ]
+    ],
+    "home": [
+     [
+      "Baker Mayfield",
+      "5 games",
+      "201 pass yds/game"
+     ],
+     [
+      "Bucky Irving",
+      "5 games",
+      "105 rush yds/game"
+     ],
+     [
+      "Emeka Egbuka",
+      "2 games",
+      "24 rec yds/game"
      ]
     ]
    }
