@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:01+00:00",
+ "updated": "2026-11-25T13:06+00:00",
  "season": 2026,
  "week": 12,
  "games": [
@@ -114,8 +114,76 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Kevin Zeitler",
+      "G",
+      "Questionable",
+      "triceps"
+     ],
+     [
+      "Zaire Franklin",
+      "LB",
+      "Questionable",
+      "shin"
+     ],
+     [
+      "Josh Jacobs",
+      "RB",
+      "Questionable",
+      "finger"
+     ],
+     [
+      "Micah Parsons",
+      "LB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Sean Rhyan",
+      "C",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Bo Melton",
+      "WR",
+      "Questionable",
+      "thigh"
+     ],
+     [
+      "Skyy Moore",
+      "WR",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Travis Glover",
+      "G",
+      "Questionable",
+      "shoulder"
+     ]
+    ],
+    "home": [
+     [
+      "Coleman Shelton",
+      "C",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Steve Avila",
+      "G",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Terrance Ferguson",
+      "TE",
+      "Out",
+      "ankle"
+     ]
+    ]
    },
    "series": {
     "summary": "GB won 2 of the last 2",
