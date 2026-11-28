@@ -1,218 +1,8 @@
 {
- "updated": "2026-11-27T12:59+00:00",
+ "updated": "2026-11-28T12:49+00:00",
  "season": 2026,
  "week": 12,
  "games": [
-  {
-   "away": "DEN",
-   "home": "PIT",
-   "when": "Friday 15:00",
-   "defense": {
-    "away": [
-     [
-      "Passing yards allowed to QBs",
-      "251.6/game",
-      7
-     ],
-     [
-      "Passing touchdowns allowed to QBs",
-      "1.7/game",
-      12
-     ],
-     [
-      "Rushing yards allowed to RBs",
-      "100.5/game",
-      14
-     ],
-     [
-      "Touchdowns allowed to RBs",
-      "0.8/game",
-      20
-     ],
-     [
-      "Targets allowed to WRs",
-      "19.1/game",
-      16
-     ],
-     [
-      "Catches allowed to WRs",
-      "10.7/game",
-      19
-     ],
-     [
-      "Receiving yards allowed to WRs",
-      "132.0/game",
-      26
-     ],
-     [
-      "Touchdowns allowed to WRs",
-      "0.6/game",
-      27
-     ],
-     [
-      "Receiving yards allowed to TEs",
-      "70.2/game",
-      4
-     ],
-     [
-      "Touchdowns allowed to TEs",
-      "0.8/game",
-      5
-     ]
-    ],
-    "home": [
-     [
-      "Passing yards allowed to QBs",
-      "248.6/game",
-      9
-     ],
-     [
-      "Passing touchdowns allowed to QBs",
-      "1.1/game",
-      26
-     ],
-     [
-      "Rushing yards allowed to RBs",
-      "71.4/game",
-      28
-     ],
-     [
-      "Touchdowns allowed to RBs",
-      "0.8/game",
-      20
-     ],
-     [
-      "Targets allowed to WRs",
-      "20.1/game",
-      7
-     ],
-     [
-      "Catches allowed to WRs",
-      "12.4/game",
-      11
-     ],
-     [
-      "Receiving yards allowed to WRs",
-      "152.8/game",
-      13
-     ],
-     [
-      "Touchdowns allowed to WRs",
-      "0.5/game",
-      29
-     ],
-     [
-      "Receiving yards allowed to TEs",
-      "52.2/game",
-      17
-     ],
-     [
-      "Touchdowns allowed to TEs",
-      "0.3/game",
-      19
-     ]
-    ]
-   },
-   "injuries": {
-    "away": [
-     [
-      "Taylor Rapp",
-      "S",
-      "Out",
-      "quadricep"
-     ],
-     [
-      "Tyler Badie",
-      "RB",
-      "Questionable",
-      "thumb"
-     ],
-     [
-      "Sai'vion Jones",
-      "DE",
-      "Out",
-      "hamstring"
-     ],
-     [
-      "Caleb Lohner",
-      "TE",
-      "Out",
-      "foot"
-     ]
-    ],
-    "home": [
-     [
-      "Cole Holcomb",
-      "LB",
-      "Questionable",
-      "heel"
-     ],
-     [
-      "Alex Highsmith",
-      "LB",
-      "Out",
-      "ankle"
-     ],
-     [
-      "Ben Skowronek",
-      "WR",
-      "Out",
-      "calf"
-     ],
-     [
-      "Gennings Dunker",
-      "G",
-      "Out",
-      "knee"
-     ]
-    ]
-   },
-   "series": {
-    "summary": "DEN won 0 of the last 1",
-    "meetings": [
-     [
-      "2024, Week 2",
-      "DEN 6, PIT 13"
-     ]
-    ]
-   },
-   "history": {
-    "away": [
-     [
-      "Bo Nix",
-      "1 games",
-      "246 pass yds/game"
-     ],
-     [
-      "J.K. Dobbins",
-      "1 games",
-      "44 rush yds/game"
-     ],
-     [
-      "Jaylen Waddle",
-      "1 games",
-      "26 rec yds/game"
-     ]
-    ],
-    "home": [
-     [
-      "Aaron Rodgers",
-      "1 games",
-      "225 pass yds/game"
-     ],
-     [
-      "Jaylen Warren",
-      "1 games",
-      "42 rush yds/game"
-     ],
-     [
-      "DK Metcalf",
-      "1 games",
-      "29 rec yds/game"
-     ]
-    ]
-   }
-  },
   {
    "away": "NO",
    "home": "CIN",
@@ -222,7 +12,7 @@
      [
       "Passing yards allowed to QBs",
       "242.6/game",
-      11
+      9
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -262,7 +52,7 @@
      [
       "Receiving yards allowed to TEs",
       "64.1/game",
-      6
+      5
      ],
      [
       "Touchdowns allowed to TEs",
@@ -274,7 +64,7 @@
      [
       "Passing yards allowed to QBs",
       "242.3/game",
-      13
+      11
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -299,7 +89,7 @@
      [
       "Catches allowed to WRs",
       "10.6/game",
-      20
+      19
      ],
      [
       "Receiving yards allowed to WRs",
@@ -324,8 +114,58 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Noah Fant",
+      "TE",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "Juwan Johnson",
+      "TE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Asim Richards",
+      "T",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Taliese Fuaga",
+      "T",
+      "Questionable",
+      "knee"
+     ]
+    ],
+    "home": [
+     [
+      "Jalen Davis",
+      "CB",
+      "Doubtful",
+      "hamstring"
+     ],
+     [
+      "Dalton Risner",
+      "G",
+      "Out",
+      "knee"
+     ],
+     [
+      "Tee Higgins",
+      "WR",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Andrei Iosivas",
+      "WR",
+      "Questionable",
+      "thumb"
+     ]
+    ]
    },
    "series": {
     "summary": "No recent meetings",
@@ -403,7 +243,7 @@
      [
       "Passing yards allowed to QBs",
       "251.2/game",
-      8
+      7
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -423,7 +263,7 @@
      [
       "Targets allowed to WRs",
       "20.2/game",
-      5
+      6
      ],
      [
       "Catches allowed to WRs",
@@ -453,8 +293,58 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Nnamdi Madubuike",
+      "DT",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Jaylinn Hawkins",
+      "S",
+      "Out",
+      "knee"
+     ],
+     [
+      "Olaivavega Ioane",
+      "G",
+      "Out",
+      "hand"
+     ]
+    ],
+    "home": [
+     [
+      "Danielle Hunter",
+      "DE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Brevin Jordan",
+      "TE",
+      "Out",
+      "finger"
+     ],
+     [
+      "Jacob Hummel",
+      "LB",
+      "Questionable",
+      "abdomen"
+     ],
+     [
+      "Kayshon Boutte",
+      "WR",
+      "Out",
+      "hip"
+     ],
+     [
+      "Keylan Rutledge",
+      "G",
+      "Out",
+      "neck"
+     ]
+    ]
    },
    "series": {
     "summary": "BAL won 2 of the last 3",
@@ -539,7 +429,7 @@
      [
       "Targets allowed to WRs",
       "20.1/game",
-      7
+      8
      ],
      [
       "Catches allowed to WRs",
@@ -601,7 +491,7 @@
      [
       "Receiving yards allowed to WRs",
       "148.0/game",
-      17
+      16
      ],
      [
       "Touchdowns allowed to WRs",
@@ -616,13 +506,63 @@
      [
       "Touchdowns allowed to TEs",
       "0.7/game",
-      6
+      5
      ]
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Shelby Harris",
+      "DT",
+      "Out",
+      "illness"
+     ]
+    ],
+    "home": [
+     [
+      "Charvarius Ward",
+      "CB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Jerry Tillery",
+      "DT",
+      "Out",
+      "calf"
+     ],
+     [
+      "Andrew Ogletree",
+      "TE",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Cam Taylor-Britt",
+      "CB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Will Mallory",
+      "TE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Jalen Travis",
+      "T",
+      "Out",
+      "knee"
+     ],
+     [
+      "Seth McGowan",
+      "RB",
+      "Out",
+      "hamstring"
+     ]
+    ]
    },
    "series": {
     "summary": "NYG won 1 of the last 1",
@@ -766,8 +706,64 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Terrell Burgess",
+      "S",
+      "Out",
+      "knee"
+     ],
+     [
+      "Dan Moore Jr.",
+      "T",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Cordale Flott",
+      "CB",
+      "Out",
+      "neck"
+     ],
+     [
+      "Fernando Carmona",
+      "G",
+      "Questionable",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Patrick Mekari",
+      "G",
+      "Out",
+      "back"
+     ],
+     [
+      "Robert Hainsey",
+      "C",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Parker Washington",
+      "WR",
+      "Out",
+      "shoulder"
+     ],
+     [
+      "BJ Green II",
+      "DE",
+      "Out",
+      "forearm"
+     ],
+     [
+      "Bhayshul Tuten",
+      "RB",
+      "Out",
+      "ankle"
+     ]
+    ]
    },
    "series": {
     "summary": "TEN won 0 of the last 3",
@@ -872,7 +868,7 @@
      [
       "Touchdowns allowed to TEs",
       "0.3/game",
-      23
+      22
      ]
     ],
     "home": [
@@ -929,8 +925,58 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "David Onyemata",
+      "DT",
+      "Questionable",
+      "abdomen"
+     ],
+     [
+      "Harrison Phillips",
+      "DT",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "T'Vondre Sweat",
+      "DT",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Omar Cooper Jr.",
+      "WR",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Bradley Pinion",
+      "P",
+      "Out",
+      "groin"
+     ],
+     [
+      "Ronnie Harrison",
+      "LB",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Jared Wayne",
+      "WR",
+      "Out",
+      "quadricep"
+     ],
+     [
+      "Julius Brents",
+      "CB",
+      "Out",
+      "neck"
+     ]
+    ]
    },
    "series": {
     "summary": "NYJ won 0 of the last 3",
@@ -1035,7 +1081,7 @@
      [
       "Receiving yards allowed to TEs",
       "51.0/game",
-      18
+      17
      ],
      [
       "Touchdowns allowed to TEs",
@@ -1072,7 +1118,7 @@
      [
       "Catches allowed to WRs",
       "10.5/game",
-      22
+      21
      ],
      [
       "Receiving yards allowed to WRs",
@@ -1082,7 +1128,7 @@
      [
       "Touchdowns allowed to WRs",
       "0.6/game",
-      27
+      28
      ],
      [
       "Receiving yards allowed to TEs",
@@ -1097,8 +1143,64 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Jahan Dotson",
+      "WR",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "DeMarcco Hellams",
+      "S",
+      "Out",
+      "foot"
+     ],
+     [
+      "Matthew Bergeron",
+      "G",
+      "Out",
+      "back"
+     ],
+     [
+      "Billy Bowman Jr.",
+      "CB",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Zachariah Branch",
+      "WR",
+      "Out",
+      "hamstring"
+     ]
+    ],
+    "home": [
+     [
+      "Harrison Smith",
+      "S",
+      "Questionable",
+      "thigh"
+     ],
+     [
+      "Isaiah Rodgers",
+      "CB",
+      "Out",
+      "thigh"
+     ],
+     [
+      "Christian Darrisaw",
+      "T",
+      "Out",
+      "shoulder"
+     ],
+     [
+      "Jordan Addison",
+      "WR",
+      "Out",
+      "thumb"
+     ]
+    ]
    },
    "series": {
     "summary": "ATL won 1 of the last 3",
@@ -1220,7 +1322,7 @@
      [
       "Rushing yards allowed to RBs",
       "101.5/game",
-      13
+      14
      ],
      [
       "Touchdowns allowed to RBs",
@@ -1260,8 +1362,106 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Carlton Davis III",
+      "CB",
+      "Out",
+      "knee"
+     ],
+     [
+      "A.J. Brown",
+      "WR",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Reggie Gilliam",
+      "FB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Alijah Vera-Tucker",
+      "G",
+      "Questionable",
+      "hamstring"
+     ],
+     [
+      "Christian Barmore",
+      "DT",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Romeo Doubs",
+      "WR",
+      "Out",
+      "shoulder"
+     ],
+     [
+      "Walter Rouse",
+      "T",
+      "Questionable",
+      "concussion"
+     ],
+     [
+      "Drake Maye",
+      "QB",
+      "Out",
+      "fibula"
+     ]
+    ],
+    "home": [
+     [
+      "Dalvin Tomlinson",
+      "DT",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "David Njoku",
+      "TE",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "Justin Herbert",
+      "QB",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Kendall Williamson",
+      "S",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "Keaton Mitchell",
+      "RB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Daiyan Henley",
+      "LB",
+      "Out",
+      "knee"
+     ],
+     [
+      "Tuli Tuipulotu",
+      "DE",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Tarheeb Still",
+      "CB",
+      "Questionable",
+      "ankle"
+     ]
+    ]
    },
    "series": {
     "summary": "NE won 1 of the last 3",
@@ -1418,8 +1618,52 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Amik Robertson",
+      "CB",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Hunter Long",
+      "TE",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Zachary Carter",
+      "DT",
+      "Out",
+      "knee"
+     ],
+     [
+      "Jon Gaines II",
+      "G",
+      "Out",
+      "ankle"
+     ],
+     [
+      "Cody Simon",
+      "LB",
+      "Questionable",
+      "calf"
+     ],
+     [
+      "Karson Sharar",
+      "LB",
+      "Questionable",
+      "groin"
+     ],
+     [
+      "Carson Beck",
+      "QB",
+      "Out",
+      "back"
+     ]
+    ]
    },
    "series": {
     "summary": "WAS won 2 of the last 2",
@@ -1567,8 +1811,70 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Jarran Reed",
+      "DT",
+      "Out",
+      "toe"
+     ],
+     [
+      "Quenton Nelson",
+      "G",
+      "Out",
+      "knee"
+     ],
+     [
+      "Abraham Lucas",
+      "T",
+      "Out",
+      "ankle"
+     ]
+    ],
+    "home": [
+     [
+      "Mike Evans",
+      "WR",
+      "Questionable",
+      "achilles"
+     ],
+     [
+      "Siran Neal",
+      "S",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Dre Greenlaw",
+      "LB",
+      "Questionable",
+      "neck"
+     ],
+     [
+      "Austen Pleasants",
+      "T",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Brock Purdy",
+      "QB",
+      "Out",
+      "ankle"
+     ],
+     [
+      "Upton Stout",
+      "CB",
+      "Questionable",
+      "shoulder"
+     ],
+     [
+      "Jordan Watkins",
+      "WR",
+      "Out",
+      "groin"
+     ]
+    ]
    },
    "series": {
     "summary": "SEA won 2 of the last 3",
@@ -1633,7 +1939,7 @@
      [
       "Passing yards allowed to QBs",
       "245.7/game",
-      10
+      8
      ],
      [
       "Passing touchdowns allowed to QBs",
@@ -1735,8 +2041,82 @@
     ]
    },
    "injuries": {
-    "away": [],
-    "home": []
+    "away": [
+     [
+      "Adam Butler",
+      "DT",
+      "Out",
+      "concussion"
+     ],
+     [
+      "Patrick Johnson",
+      "DE",
+      "Questionable",
+      "stinger"
+     ],
+     [
+      "Darrell Luter Jr.",
+      "CB",
+      "Questionable",
+      "knee"
+     ],
+     [
+      "Brock Bowers",
+      "TE",
+      "Questionable",
+      "ankle"
+     ],
+     [
+      "Jackson Powers-Johnson",
+      "G",
+      "Out",
+      "achilles"
+     ],
+     [
+      "Tonka Hemingway",
+      "DT",
+      "Out",
+      "stinger"
+     ],
+     [
+      "JJ Pegues",
+      "DT",
+      "Questionable",
+      "elbow"
+     ],
+     [
+      "Tim Keenan III",
+      "DT",
+      "Out",
+      "knee"
+     ]
+    ],
+    "home": [
+     [
+      "Derek Barnett",
+      "DE",
+      "Out",
+      "hamstring"
+     ],
+     [
+      "Raheim Sanders",
+      "RB",
+      "Questionable",
+      "hip"
+     ],
+     [
+      "Denzel Boston",
+      "WR",
+      "Questionable",
+      "quadricep"
+     ],
+     [
+      "Austin Barber",
+      "G",
+      "Questionable",
+      "knee"
+     ]
+    ]
    },
    "series": {
     "summary": "LV won 1 of the last 2",
@@ -1817,7 +2197,7 @@
      [
       "Receiving yards allowed to WRs",
       "148.7/game",
-      15
+      14
      ],
      [
       "Touchdowns allowed to WRs",
@@ -1859,7 +2239,7 @@
      [
       "Targets allowed to WRs",
       "18.3/game",
-      17
+      16
      ],
      [
       "Catches allowed to WRs",
@@ -1879,7 +2259,7 @@
      [
       "Receiving yards allowed to TEs",
       "64.8/game",
-      5
+      4
      ],
      [
       "Touchdowns allowed to TEs",
